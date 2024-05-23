@@ -1,0 +1,23 @@
+{
+    "phoneNo": "0544000001",
+    "customerName": "John Doe",
+    "address": "Jutfaseweg 53",
+    "candleItem": [
+        {
+            "candleName": "Ball",
+            "color": "blue",
+            "smell": "strong",
+            "description": "blue candle with strong smell",
+            "quantity": 2,
+            "price": 100
+        },
+        {
+            "candleName": "flame",
+            "color": "white",
+            "smell": "light",
+            "description": "flame light basic",
+            "quantity": 1,
+            "price": 50
+        }
+    ]
+}
