@@ -25,7 +25,7 @@ This service uses the Python Flask web framework to expose a POST method that re
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/JonathanYK/order-service.git
+    git clone https://github.com/JonathanYK/order_whatsapp_service.git
     cd order-service
     ```
 
